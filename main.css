@@ -1,0 +1,10 @@
+a:hover{
+	background-color: gray;
+}
+a{
+	font-family: Arial;
+	color: white;
+	background-color: black;
+	format: left;
+	padding: 20px;
+}
